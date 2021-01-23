@@ -1,2 +1,0 @@
-# shopify-react
-Shopify React
